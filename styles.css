@@ -1,0 +1,70 @@
+    body{
+        background-image: url(FRONT\ DE\ LA\ PAGINA.gif);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    h1{
+        color: rgb(177, 243, 177);
+        background-color: rgb(27, 14, 41);
+        opacity:90% ;
+        padding: 20px;
+        border-radius: 12px;
+        border: 6px solid white;
+        text-align: center;
+        margin: auto;
+        width: 300px;
+        font-family: cursive;
+        
+    }
+    p{  color: aquamarine;
+        background-color: rgb(27, 14, 41);
+        opacity:90% ; 
+        padding: 20px;
+        border-radius: 12px;
+        border:6px solid white;
+        text-align:center ;
+        margin:auto; 
+        width: 300px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+    
+        
+
+
+         
+        
+    div1{
+        
+        background-color: aquamarine;
+        opacity: 80%;
+        border: 3px;
+    }
+
+    div2{
+        margin-top: auto;
+        background-color: aquamarine;
+        opacity: %;
+    }
+
+    div3{
+        margin-top:auto
+        background-color: aquamarine;
+        opacity: %;
+    }
+
+    .contenedor1 img {
+        border:5px solid #3406dd;
+        border: radius 10px;
+        box-shadow: 12px;
+    }
+
+    .contenedor2 img {
+        border:5px solid #4c2eb8;
+        border: radius 10px;
+        box-shadow: 12px;
+    }
+
+    .contenedor3 img {
+        border:5px solid #3406dd;
+        border: radius 10px;
+        box-shadow: 12px;
+    }
